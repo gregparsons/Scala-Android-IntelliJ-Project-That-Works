@@ -3,7 +3,7 @@ package com.swimr.ScalaTestAndroid.scala_android_1.app;
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
-import com.swimr.ScalaTestAndroid.scala_android_1.scala.MyScalaClass;
+import com.swimr.ScalaTestAndroid.scala_android_1.app.MyScalaClass;
 
 public class MainActivity extends Activity {
 

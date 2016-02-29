@@ -1,4 +1,4 @@
-package com.swimr.ScalaTestAndroid.scala_android_1.scala
+package com.swimr.ScalaTestAndroid.scala_android_1.app
 
 /**
   * Created by alpine on 2/28/16.

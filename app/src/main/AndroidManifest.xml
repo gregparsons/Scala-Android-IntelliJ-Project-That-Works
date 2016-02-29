@@ -7,8 +7,15 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
     >
+<!--
+Replace this:
+
+android:name=".MainActivity"
+
+with the following to use the new Scala Activity...
+-->
         <activity
-            android:name=".MainActivity"
+            android:name="com.swimr.ScalaTestAndroid.scala_android_1.app.MainScalaActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
