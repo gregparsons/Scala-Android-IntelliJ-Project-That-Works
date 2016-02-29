@@ -6,7 +6,7 @@ package com.swimr.ScalaTestAndroid.scala_android_1.scala
 class MyScalaClass {
 
 	def sayHello = {
-		println("Hello")
+		"Hello from Scala"
 	}
 
 }
